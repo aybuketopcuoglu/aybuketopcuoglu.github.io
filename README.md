@@ -1,2 +1,0 @@
-# aybuketopcuoglu.github.io
-test

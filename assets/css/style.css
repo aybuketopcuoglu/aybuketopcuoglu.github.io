@@ -122,12 +122,7 @@ h6 {
   z-index: 997;
   padding: 15px 0;
 }
-#header_home{
-  /*  background: #e9e8e6;*/
-    box-shadow: 0px 0px 25px 0 rgba(0, 0, 0, 0.08);
-    z-index: 997;
-    padding: 15px 0;
-  }
+
 #header .logo {
   font-size: 32px;
   margin: 0;
@@ -139,6 +134,26 @@ h6 {
 }
 
 #header .logo a {
+  color: #e9e8e6;
+}
+
+#header_home{
+/*  background: #e9e8e6;*/
+  box-shadow: 0px 0px 25px 0 rgba(0, 0, 0, 0.08);
+  z-index: 997;
+  padding: 15px 0;
+}
+#header_home .logo {
+  font-size: 32px;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-weight: 400;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+#header_home .logo a {
   color: #e9e8e6;
 }
 
